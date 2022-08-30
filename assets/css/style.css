@@ -364,8 +364,9 @@ footer hr {
     }
 
     .footer-links {
-        flex-direction: column;
-        gap: 1rem;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
  
 }
