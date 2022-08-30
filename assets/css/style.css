@@ -251,8 +251,10 @@ footer hr {
     }
 
     .filter {
-       background-color: #fff;
-       height: auto;
+        width: 100px;
+        height: 100px;
+        background-color: #fff;
+        height: auto;
     }
     .normal-btn {
         border: 1px solid #E8E8E8;
@@ -323,6 +325,8 @@ footer hr {
     }
 
     .filter {
+        width: 100px;
+        height: 100px;
         background-color: #fff;
         flex-direction: row;
         gap: 1rem;
